@@ -2,8 +2,9 @@
 
 Task
 ----
-Using CMAKE build tool and OpenCV github source code. I wrote C++ code that take an image and
-convert it into grey scale. also I wrote CMakeLists.txt file to build My own C++ code. 
+Using CMAKE build tool and OpenCV github source code. You should be able to write C++ code that take an image
+and convert it into grey scale. 
+Note: you would need also to write CMakeLists.txt file to build your own C++ code. 
 
 
 Details

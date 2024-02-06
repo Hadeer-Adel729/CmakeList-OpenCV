@@ -15,6 +15,7 @@ OpenCV (Open Source Computer Vision Library) is an open-source library that incl
 hundreds of computer vision algorithms.
 
 To install CMAKE (https://cmake.org/download/)
+
 To install pre-built OpenCV package(https://community.chocolatey.org/packages/OpenCV)
  
 

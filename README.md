@@ -17,6 +17,7 @@ hundreds of computer vision algorithms.
 To install CMAKE (https://cmake.org/download/)
 
 To install pre-built OpenCV package(https://community.chocolatey.org/packages/OpenCV)
+
 watch this Video to help in installation(https://www.youtube.com/watch?v=yZYpSaBRpgQ)
  
 

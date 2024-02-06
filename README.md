@@ -22,12 +22,17 @@ To install pre-built OpenCV package(https://community.chocolatey.org/packages/Op
  Environment variables
  ---------------------
 (Double click on "PATH" and create a new variable !)
+
 User Variables / Path / C:\tools\opencv\build\x64\vc15\bin
 
 System Variables:
 -----------------
 OPENCV_DIR            | C:\tools\opencv\build\x64\vc14\lib
+
 OPENCV_INCLUDE_PATHS  | C:\tools\opencv\build\include
+
 OPENCV_LINK_LIBS      | opencv_world460
+
 OPENCV_LINK_PATHS     | C:\tools\opencv\build\x64\vc15\lib
+
 OPENCV_PATH           | C:\tools\opencv

@@ -1,4 +1,4 @@
-# CmakeList-OpenCV
+# CmakeList-OpenCV_Greyscale_Converter
 
 Task
 ----

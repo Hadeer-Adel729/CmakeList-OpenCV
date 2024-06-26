@@ -41,7 +41,6 @@ OPENCV_PATH           | C:\tools\opencv
 
 Output of main.cpp
 ------------------
-
-![Screenshot (284)](https://github.com/Hadeer-Adel729/CmakeList-OpenCV/assets/119612208/e2088405-a0b8-41c2-b5f3-b5872789a8d1)
+![Screenshot (285)](https://github.com/Hadeer-Adel729/CmakeList-OpenCV/assets/119612208/f7c9aaca-3cff-4a67-bc6e-390bdae75e5a)
 
 
